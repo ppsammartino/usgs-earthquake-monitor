@@ -1,0 +1,53 @@
+# Python build artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db# Python build artifacts
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+*.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Django related
+*.log
+media/
+staticfiles/
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Editor backups
+*.swp
+
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Django related
+*.log
+media/
+staticfiles/
+.env
+
+# Virtual environments
+venv/
+env/
+
+# Editor backups
+*.swp
+

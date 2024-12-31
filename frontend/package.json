@@ -1,0 +1,27 @@
+{
+  "name": "usgs-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "axios": "^1.0.0",
+    "bootstrap": "^5.3.3",
+    "dayjs": "^1.11.13",
+    "react": "^18.0.0",
+    "react-bootstrap": "^2.10.7",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-react-app": "^7.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "lint": "eslint --ext .js,.jsx src"
+  }
+}

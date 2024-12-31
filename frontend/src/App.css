@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.App {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: #252526;
+  border-radius: 8px;
+}
+
+.App button {
+  margin-right: 0.5rem;
+  background-color: #0e639c;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 0.7rem 1.2rem;
+  cursor: pointer;
+}
+
+.App button:hover {
+  background-color: #1177bb;
+}
+
+label {
+  display: block;
+  margin-top: 1rem;
+  color: #c586c0;
+}
+
+select, input[type="date"] {
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #3c3c3c;
+  border-radius: 4px;
+  background-color: #3c3c3c;
+  color: #d4d4d4;
+}
+
+.history-list {
+  margin-top: 2rem;
+  border-top: 1px solid #555;
+  padding-top: 1rem;
+}
+
+.history-item {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #3c3c3c;
+}
